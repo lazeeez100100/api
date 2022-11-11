@@ -1,0 +1,16 @@
+❌ You are missing multiple dependencies, including typescript and buffer *******************
+
+❌ Your dependencies field in package.json contains libraries that should be in devDependencies.********************
+
+❌ You are missing multiple dependencies, including typescript and buffer, and as a result, your codes cannot be executed**************
+
+❌ You are missing multiple dependencies, including typescript and buffer, and as a result, your codes cannot be executed***********
+
+Error handling help your server to communicate better with the client, and make sure the client can handle all different situations gracefully. To learn more about error handling in Express, see the wonderfully-concise official doc here
+To learn more about error handling in Express, see the wonderfully-concise official doc here
+❌ You are missing multiple dependencies, including typescript and buffer, and as a result, your codes cannot be executed*****************
+
+
+
+
+
